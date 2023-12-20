@@ -1,9 +1,10 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
-authors:
-- family-names: K
-  given-names: David
-orcid: https://orcid.org/0000-0000-0000-0000
-title:davidk104/eeecs_qub_collaboration: EEECS QUB Collaboration
+authors: David K
+  - family-names: K 
+    given-names: David
+    orcid: 
+title: "EEECS QUB Collaboration"
 version: v1.0.0
-date-released: 2023-12-20
+doi: 10.5072/zenodo.14564 
+date-released: 20/12/2023
